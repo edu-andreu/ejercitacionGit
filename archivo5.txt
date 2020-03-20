@@ -1,0 +1,15 @@
+Conectar Repositorio Local con Repositorio Remoto
+
+
+Para que nuestro Repositorio Local sepa a donde queremos subir nuestros archivos hace falta especificarlo.
+
+
+Tener creado previamente un repositorio en GitHub
+
+Ir a la ubicación del mismo y copiar la url
+
+Escribir el comando  git remote add origin . 
+
+Pegar la url después de la palabra origin (dejando un espacio de por medio) y presionar enter
+
+Para verificar que el paso anterior se ejecutó correctamente, correr el comando  git remote -v  . Deberías ver en la terminal la palabra   origin . seguida de la url

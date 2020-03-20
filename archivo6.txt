@@ -1,0 +1,9 @@
+
+¿Qué es un commit?
+
+
+Cada vez que subimos archivos (nuevos o modificados) a un Repositorio Remoto, se suben en forma de un pequeño paquete de archivos. Cada paquete tiene una fecha de creación (timestamp) y un autor.
+
+
+Es a través de los commits que vamos a poder hacer el seguimiento de los cambios que se van realizando en los proyectos, ya que cada uno de ellos genera un punto cronológico en la línea del tiempo del proyecto.
+

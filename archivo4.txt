@@ -1,0 +1,25 @@
+Agregar nuestra identidad al Repositorio Local
+
+
+Para que git pueda hacer un completo seguimiento de los cambios realizados, necesitamos decirle al repositorio quien somos.
+
+
+Abrir una terminal en la ubicación de nuestro repositorio local
+
+Correr el comando  git config user.name "nombreDeUsuario" . en donde, entre comillas, debemos escribir nuestro nombre de usuario tal cual aparezca en GitHub
+
+Para verificar que ingresamos bien nuestro nombre de usuario, correr el comando
+ git config user.name   y presionar enter
+
+
+Correr el comando  git config user.email "nombre@email.com" . en donde, entre comillas, debemos escribir el email con el que nos registramos en GitHub
+Para verificar que ingresamos bien nuestro email, correr el comando
+ git config user.email   y presionar enter
+
+
+Para configurar nuestra identidad de manera global y no tener que estar aclarando siempre nuestro email y nombre de usuario, agregar la palabra  --global .
+
+
+ git config --gobal user.name "nombreDeUsuario" .
+
+ git config --gobal user.email "nombre@email.com" .
