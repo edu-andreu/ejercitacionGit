@@ -16,11 +16,6 @@
 
 console.log('Hello World!!!');
 
-
-
-
-
-
-
-
+var sumar = (n1,n2) => n1 + n2;
+console.log(sumar(100,1));
 console.log(sumar(210,-5));
