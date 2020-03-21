@@ -15,3 +15,7 @@
 // Para verificar que la instalación se haya realizado correctamente, abrir una terminal y correr el comando  git --version  f
 
 console.log('Hello World!!!');
+
+var sumar = (n1,n2) => n1 + n2;
+console.log(sumar(100,1));
+
