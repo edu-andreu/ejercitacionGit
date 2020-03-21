@@ -15,3 +15,12 @@
 // Para verificar que la instalación se haya realizado correctamente, abrir una terminal y correr el comando  git --version  f
 
 console.log('Hello World!!!');
+
+
+
+
+
+
+
+
+console.log(sumar(210,-5));
