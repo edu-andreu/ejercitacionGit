@@ -9,3 +9,5 @@
 // Crear una carpeta en nuestra PC, que será donde alojaremos nuestro proyecto. Esta carpeta será nuestro repositorio local
 // Dentro de la carpeta, abrir una terminal y correr el comando  git init  . 
 // Este comando inicializa un repositorio local en la carpeta del proyecto
+
+console.log('Hello World!!!');

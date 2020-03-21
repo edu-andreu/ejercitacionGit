@@ -13,3 +13,5 @@
 // Si tu sistema operativo es Windows, además de instalarse GIT, se instalará en tu máquina una terminal llamada GIT BASH
 // Una vez instalado GIT, estará disponible el comando  git  para correr en la terminal
 // Para verificar que la instalación se haya realizado correctamente, abrir una terminal y correr el comando  git --version  f
+
+console.log('Hello World!!!');
